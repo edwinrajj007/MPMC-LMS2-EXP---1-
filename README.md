@@ -56,14 +56,12 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|       1200🔢       01         12
-
-|         1200                    |
+|       1200              |          01              |
+|       1200              |          13              |            
 
 #### Manual Calculations
 
-(Add your calculation here)
-
+<img width="1480" height="1022" alt="WhatsApp Image 2026-10-15 at 10 49 26 AM" src="https://github.com/user-attachments/assets/ed04c76e-be09-4d0e-944b-aeecda3c206b" />
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
